@@ -1,0 +1,19 @@
+{
+  "name": "lojao10reais",
+  "version": "1.0.0",
+  "description": "Projeto de ecommerce para comercializar coisas baratas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next", 
+    "build": "next build", 
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
